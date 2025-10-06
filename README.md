@@ -1,5 +1,5 @@
 # shovel-books
-Wills ShovelWare Book Pack Releases
+Will's ShovelWare Book Pack Releases
 
 Books by the pound!
 
